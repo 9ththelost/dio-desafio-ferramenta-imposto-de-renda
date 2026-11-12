@@ -52,7 +52,3 @@ As capturas de tela do projeto podem ser consultadas na pasta `images`, permitin
 Durante o desenvolvimento, foram aplicados conceitos de organização de dados, validação de informações, navegação entre planilhas e estruturação de ferramentas no Excel.
 
 O projeto também proporcionou a prática de documentação técnica e utilização do GitHub para versionamento e compartilhamento de projetos.
-
-## 👨‍💻 Autor
-
-Desenvolvido como parte do desafio da Digital Innovation One (DIO).
