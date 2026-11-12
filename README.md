@@ -45,7 +45,16 @@ dio-desafio-ferramenta-imposto-de-renda/
 
 ## 📸 Demonstração
 
-As capturas de tela do projeto podem ser consultadas na pasta `images`, permitindo visualizar a interface e os principais recursos da ferramenta.
+Abaixo estão algumas capturas de tela da ferramenta desenvolvida:
+
+### Dados do Titular
+![Dados do Titular](images/titular.png)
+
+### Informes
+![Informes](images/informes.png)
+
+### Rendimentos
+![Rendimentos](images/rendimentos.png)
 
 ## 📚 Aprendizados
 
