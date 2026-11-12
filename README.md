@@ -41,7 +41,6 @@ dio-desafio-ferramenta-imposto-de-renda/
 ├── README.md
 ├── projeto.xlsx
 └── images/
-    └── screenshots/
 ```
 
 ## 📸 Demonstração
